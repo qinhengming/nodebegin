@@ -1,0 +1,24 @@
+{
+  "name": "nodebegin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinhengming/nodebegin.git"
+  },
+  "author": "qhm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinhengming/nodebegin/issues"
+  },
+  "homepage": "https://github.com/qinhengming/nodebegin#readme"
+}
